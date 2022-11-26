@@ -1,0 +1,214 @@
+.topnav
+{
+    display: inline-block;
+    background-color: #6247aa;
+    width: 100%;
+    height: 50px;
+}
+
+.navformat
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.body
+{
+    background-color: #e2cfea;
+}
+
+.nav-text
+{
+    justify-content: center;
+    font-family: "Lucida Console",monospace;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.title
+{
+    display: flex;
+    justify-content: center;
+    font-family: "Lucida Console",monospace;
+    font-size: 20px;
+    color:#6247aa
+}
+
+.my-pic
+{
+    display: inline-block;
+    margin-top: 50px;
+    padding-left: 190px;
+    padding-top: 20px;
+    margin-right: 50px;
+    font-family: "Monaco",monospace;
+    font-size: 30px;
+    color:white;
+    background-color: #6247aa;
+    border-top: 10px solid #a06cd5;
+    border-right: 10px solid #a06cd5;
+    border-bottom: 10px solid #a06cd5;
+    height: 540px;
+    width: 50%;
+
+
+}
+
+.text-pic
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text
+{
+    display: inline-block;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-top: 150px;
+    margin-left: 50px;
+    font-family: "Monaco",monospace;
+    font-size: 30px;
+    color:white;
+    background-color: #6247aa;
+    border-top: 10px solid #a06cd5;
+    border-left: 10px solid #a06cd5;
+    border-bottom: 10px solid #a06cd5;
+    height: 410px;
+    width: 50%;
+}
+
+.bio-text
+{
+    font-family: "Monaco",monospace;
+    font-size: 20px;
+    color:white;
+}
+
+.about-me-short-inline-one
+{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 70px;
+    padding-top: 90px;
+    padding-right: 30px;
+    font-family: "Monaco",monospace;
+    font-size: 20px;
+    color:white;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 320px;
+    width: 50%;
+}
+
+.about-me-short-inline-two
+{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 30px;
+    padding-right: 30px;
+    font-family: "Monaco",monospace;
+    font-size: 20px;
+    color:white;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 380px;
+    width: 50%;
+}
+
+.about-me-short
+{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-family: "Monaco",monospace;
+    font-size: 20px;
+    color:white;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 160px;
+    width: 90%;
+}
+
+.about-me-extracurriculars
+{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-family: "Monaco",monospace;
+    font-size: 20px;
+    color:white;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 500px;
+    width: 90%;
+}
+
+.about-me-intro
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projects
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    font-family: "Monaco",monospace;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 700px;
+    width: 92%;
+}
+
+.centering
+{
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+
+.text-resize
+{
+    font-size: 20px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.extracurricular
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 15px;
+    margin-right: 70px;
+    margin-left: 50px;
+    line-height: 20pt;
+
+}
+
+.center-pic
+{
+    padding-top: 90px;
+}

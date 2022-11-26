@@ -1,0 +1,73 @@
+Figma (Wireframe) - https://www.figma.com/file/zzc8RYgJ48BZZBU73iAQ0h/First-Website?node-id=0%3A1&t=N4ltyiSgYQnbDXVu-1
+
+Home Page:
+- Short Bio: Hi, my name is Asmi Gujral. Welcome to my first website.
+- Summary of Qualifications: I am a first year mechatronics engineering student at the University of Waterloo, 
+  interested in programming, firmware, and web development (so much so, that I developed this website myself!).
+  Feel free to explore this website to learn more about my experience and projects I've worked on thus far!
+- Projects At A Glance: (idea: include tags to add to projects like electrical, mechanical, software)
+    - Weather Balloon Project, EV3 Project, Robotic Arm Tron Day Project, Rocketry Drag Race, UX/UI work,
+      KWK 2020 Website, (potential: UWRT electrical project), this website!
+    - Pictures of the above, linked to personal portfolio page boxes
+  
+
+Personal Portfolio Page:
+- Pictures of above projects, click to view text as a drop down 
+- Weather Balloon Project
+    Contribution: As part of the university design team, UW Orbital, an aerospace engineering-centered student team, I worked on the firmware of the weather balloon project, which included designing the circuit for, and using SPI protocol to configure pictures from an Arducam OV5642 module and save to an SD card using an arduino.
+    Notable Frameworks: SPI Protocol, Arduino IDE, C++, Git
+    Purpose: The system will be mounted to a weather balloon, and will take pictures of the view underneath every 5 seconds, as it ascends to lower earth orbit.
+
+- EV3 Robot Project
+    Contribution: In a team of 4, I built a color-sensor mount/platform to secure the color sensor as well as accept user input, according to key mechanical design principles (optimizing structural integrity, minimizing materials used). I also programmed functions in C++ to read user input according to data collected by the color sensor, along with programming functions to record, and continually update the player-robot scoreboard.
+    Notable Frameworks: C++, Mechanical Design
+    Purpose: To facilitate a game of rock-paper-scissors a human player, using a color sensor to input the user’s choice, and using a robotic hand to express the robot’s choice
+
+- Portfolio Website
+    In my personal time, I continue to build upon my programming skills, through self-learning web development fundamentals, such as HTML, CSS and Javscript. Through prototyping a wireframe using Figma, and subsequently building this website, I have learned about concepts such as accessible design (contrasting colors, optimizing images for screen-readers) as well as front-end web development.
+    Notable Frameworks: HTML, CSS, Prototyping Interfaces, Git
+
+- Tetrix Robotic Arm
+    Contribution: In a team of 4, I built the drivetrain and arm-mount for a dual-axis, remote-controlled robotic-arm, using parts from a Tetrix-Robotics kit, and helped integrate rotary actuators which controlled the drivetrain’s movement. This was done through implementing design principles such as retaining the structure’s stability during the movement of the robot, along with keeping the structure as light as possible.
+    Purpose: To be able to move components attached to a wall, along their horizontal and vertical axes through a user-operated remote control
+    Notable Frameworks: Mechanical Design
+
+- UX/UI
+    - NASA 360
+    - Compart
+    - Study Room
+
+- Hackathons
+    - ActInSpace, Second Place, November 18-19 2022
+    - Hack to Tomorrow, Third Place, March 13 2021
+    - Fast Track Internship Technology and Innovation, Best Overall, July 11-15, 2021
+ 
+
+About Me Page:
+
+Hello! Thank you for stopping by! Here is a little about who I am!
+Endeavours: My main interests, lie in programming and firmware, with a long term goal of working in the aerospace sector. Though I have started my post-secondar career, I am still exploring different fields of engineering and continue to learn more!
+Summary of Qualifications: C++, HTML, CSS, RobotC, Python, Javascript, AutoCAD, SolidWorks, Altium
+Hobbies: Visual Arts, Astronomy, Learning about Aerospace Technologies
+
+Extracurricular Experiences:
+- CPSS Interact: 
+    - Having been a part of my school's community service for all four years throughout school, I had the privilege of becoming its club president for the 2021-2022 year. As president, I was responsible for organizing club logistics, overseeing a team of 16 executive members and 90 general members in running community-based service initiatives, as well as educating students on real-world issues. 
+    - My contributions included helping navigate the pandemic through hosting a combination of in person and virtual events, as well as introducing action-focused subteams to the club, through which school students, both general and executive members, directly contribute in helping host CPSS Interact events
+    - Under my guidance, the club facilitated a school-wide food drive which raised 540 items for Knight’s Table, our local food bank as well hosted a winter clothing drive which raised 71 items for Regen Brampton, a local homeless shelter
+- Environfocus Fundraising:
+    - I also recieved the opportunity to facilitate a crowdfunding campaign to raise money for water filtration and hygiene resources for Internally Displaced Camp refugees in Abuja, Nigeria.  
+    - My responsibilities in helping host the fundraiser included organizing marketing content (posts, flyers), as well as conducting outreach to promote the campaign and encourage donations. 
+    - After consistent outreach and promotional efforts, the 2 month campaign was successful and exceeded its fundraising goal by raising $1165, proceeds which went towards purchasing Brita water filters as well as soap products to send to the internal displacement camps. 
+- Sparkin' STEM:
+    - As co-president of Sparkin’ STEM, a youth non-profit organization which focuses on making STEM accessible to middle school students, I was responsible for leading the organization, overseeing a team of 21 executive members in running science, technology, engineering, and math focused events which targeted middle school students. 
+    - My responsibilities included hosting monthly executive meetings, allocating roles to team members, as well as overseeing the preparations and execution of the organization’s events
+    - Under the combined leadership of my fellow co-chair and I, the organization facilitated events such as Project Blast-Off, a space-themed conference, Forensics Face-Off, a forensics-themed escape room as well as Sparkin’ STEM’s General conference; all which garnered a combined audience of more than 150 students.
+
+
+
+
+Contact Page:
+- GitHub: https://github.com/asmi-g
+- LinkedIn: www.linkedin.com/in/asmigujral
+- Contact Form

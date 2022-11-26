@@ -1,0 +1,255 @@
+.topnav
+{
+    display: inline-block;
+    background-color: #6247aa;
+    width: 100%;
+    height: 50px;
+}
+
+.navformat
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.body
+{
+    background-color: #e2cfea;
+}
+
+.nav-text
+{
+    justify-content: center;
+    font-family: "Lucida Console",monospace;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.title
+{
+    display: flex;
+    justify-content: center;
+    font-family: "Lucida Console",monospace;
+    font-size: 20px;
+    color:#6247aa
+}
+
+.project-intro
+{
+    display: block;
+    margin-left: 48px;
+    margin-top: 0px;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+}
+
+.projects
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    font-family: "Monaco",monospace;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 700px;
+    width: 92%;
+}
+
+.projects-first
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    font-family: "Monaco",monospace;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 300px;
+    width: 92%;
+
+}
+
+.projects-portfolio
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    font-family: "Monaco",monospace;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 1000px;
+    width: 92%; 
+}
+
+.projects-portfolio-ux
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    font-family: "Monaco",monospace;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 1350px;
+    width: 92%; 
+    padding-bottom: 20px;
+}
+
+.projects-robotic-arm
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    font-family: "Monaco",monospace;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 800px;
+    width: 92%;
+}
+
+.weather-balloon
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-right: 70px;
+    margin-left: 50px;
+    line-height: 20pt;
+
+}
+
+.rps-bot
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-right: 70px;
+    margin-left: 50px;
+    line-height: 20pt;
+
+
+}
+
+.robotic-arm
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-right: 70px;
+    margin-left: 50px;
+    line-height: 20pt;
+
+
+}
+
+.rocket
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-right: 70px;
+    margin-left: 50px;
+
+}
+
+.text-resize
+{
+    font-size: 20px;
+    display: block;
+    padding-top: 90px;
+}
+
+.portfolio-text-resize
+{
+    font-size: 20px;
+    display: block;
+    padding-top: 20px;
+    padding-right: 70px;
+    line-height: 20pt;
+}
+
+.project-title-three
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-left: 200px;
+
+}
+
+.project-title-four
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-left: 50px;
+
+}
+
+.ux-text-resize
+{
+    display: block;
+    padding-right: 200px;
+    padding-left: 200px;
+    line-height: 20pt;
+    font-size: 20px;
+    padding-top: 20px;
+
+}
+
+.project-title-three-center
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 40px;
+    margin-left: 300px;
+
+
+}
+
+.portfolio-text
+{
+    display: flex;
+    justify-content: center;
+}
+
+.centering
+{
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.link-text
+{
+    color: #e2cfea;
+}
+
+.intro-text
+{
+    font-size: 20px;
+    line-height: 20pt;
+}
+
+.portfolio-text
+{
+    display: block;
+    padding-left: 300px;
+}

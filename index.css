@@ -1,0 +1,155 @@
+.topnav
+{
+    display: inline-block;
+    background-color: #6247aa;
+    width: 100%;
+    height: 50px;
+}
+
+.navformat
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.text
+{
+    display: inline-block;
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-top: 110px;
+    font-family: "Monaco",monospace;
+    font-size: 30px;
+    color:white;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 415px;
+    width: 50%;
+}
+
+.bio-text
+{
+    font-size: 20px;
+}
+
+
+.my-pic
+{
+    display: inline-block;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    margin-left: 30px;
+    margin-top: 30px;
+
+
+}
+
+.text-pic
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-box
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title
+{
+    display: flex;
+    justify-content: center;
+    font-family: "Lucida Console",monospace;
+    font-size: 20px;
+    color:#6247aa
+}
+
+.nav-text
+{
+    justify-content: center;
+    font-family: "Lucida Console",monospace;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.body
+{
+    background-color: #e2cfea;
+}
+
+
+.project-intro
+{
+    display: block;
+    margin-left: 48px;
+    margin-top: 0px;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+}
+
+.projects
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    font-family: "Monaco",monospace;
+    background-color: #6247aa;
+    border: 10px solid #a06cd5;
+    height: 2300px;
+    width: 92%;
+}
+
+.project-title-one
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-right: 70px;
+    margin-left: 50px;
+
+}
+
+.project-title-two
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-right: 70px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+.project-title-three
+{
+    display: inline-block;
+    color:white;
+    font-family: "Lucida Console",monospace;
+    font-size: 30px;
+    margin-top: 50px;
+
+
+}
+
+.portfolio-text
+{
+    display: flex;
+    justify-content: center;
+}
+
+.centering
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}

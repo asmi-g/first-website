@@ -71,3 +71,6 @@ Contact Page:
 - GitHub: https://github.com/asmi-g
 - LinkedIn: www.linkedin.com/in/asmigujral
 - Contact Form
+
+Idea for dynamic features:
+- add a carousel-style picture slideshow on portfolio page

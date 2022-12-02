@@ -2,10 +2,26 @@
 {
     display: inline-block;
     background-color: #6247aa;
+    color:#a06cd5;
+    transition: all 1.0s ease-out;
     width: 100%;
     height: 50px;
+    position: relative;
 }
 
+.topnav.fixed-top
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #a06cd5;
+    color:#6247aa;
+}
+
+.topnav.fixed-top a
+{
+    color: white;
+}
 .navformat
 {
     display: flex;

@@ -104,26 +104,7 @@ document.addEventListener("scroll", function()
 }
 );
 
-const name = document.getElementById('name');
-const email = document.getElementById('email');
-const phone = document.getElementById('phone');
-const submit = document.getElementsByClassName('contactform')[0];
 
-submit.addEventListener("submit",(e)=>{
-    e.preventDefault();
-    console.log("clicked");
-
-    Email.send({
-        SecureToken : "aa464af5-b3b2-43c1-96f6-3b4a0831ab20",
-        To : 'asmi.gujral@gmail.com',
-        From : "asmi.gujral@gmail.com",
-        Subject : "Test",
-        Body : "Test body paragraph"
-    }).then(
-      message => alert(message)
-    );
-
-});
 
 
 //8E4AA90BBDAA55EF6AA181A8E6FCE4989651

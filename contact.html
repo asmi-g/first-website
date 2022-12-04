@@ -3,6 +3,7 @@
     <head>
         <link rel="stylesheet" type="text/css" href="contact.css">
         <title>Contact Me</title>
+        <script src="https://smtpjs.com/v3/smtp.js"></script>
     </head>
     <body class="body">
         <div class = "title">
@@ -19,14 +20,30 @@
             <div class="contact-title">
                 <h2>Feel free to reach out!</h2>
             </div>
+            <br>
 
+            <div class="container">
+                <form class="contactform" id="contact-form">
+                    <h3>CONTACT ME</h3>
+                    <input type="text" id="name" placeholder="Your Name" required>
+                    <input type="email" id="email" placeholder="Your Email" required>
+                    <input type="text" id="phone" placeholder="Phone Number" required>
+                    <textarea id="message" rows="5" placeholder="How can I help?"></textarea>
+                    <button type="submit" id="submit">Send</button>
+                </form>
+            </div>
+
+            <br>
             <div class="text">
-                <p>Contact Information: </p>
-                <ul class="list-info">
-                    <li>LinkedIn: <a class="link-text" href="https://www.linkedin.com/in/asmigujral/">Asmi Gujral</a></li>
-                    <li>GitHub: <a class="link-text" href="https://github.com/asmi-g ">asmi-g</a></li>
-                    <li>Email: <a class="link-text" href="mailto:asmikaur.gujral@uwaterloo.ca">University Email</a></li>
-                </ul>
+                <div class="list-info">
+                    <p>LinkedIn: <a class="link-text" href="https://www.linkedin.com/in/asmigujral/">Asmi Gujral</a></p>
+                </div>
+                <div class="list-info">
+                    <p>GitHub: <a class="link-text" href="https://github.com/asmi-g ">asmi-g</a></p>
+                </div>
+                <div class="list-info">
+                    <p>Email: <a class="link-text" href="mailto:asmikaur.gujral@uwaterloo.ca">University Email</a></p>
+                </div>
             </div>
 
             </div>

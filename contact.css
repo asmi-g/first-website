@@ -85,22 +85,80 @@
 
 .text
 {   
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
     color: white;
     background-color: #6247aa;
-    border: 10px solid #a06cd5;
-    padding-left: 40px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    width: 95%;
+    width: 100%;
     text-decoration: none;
-    height: 200px;
-    margin-top: 50px;
+    height: 15vh;
+   
 
 }
 
 .link-text
 {
     color: white;
+}
+
+.container
+{
+    width: 100%;
+    height: 80vh;
+    background-color: #6247aa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+form
+{
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+form h3
+{
+    color:white;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+form input, form textarea
+{
+    border:0;
+    margin: 10px 0;
+    padding: 20px;
+    outline: none;
+    background-color: white;
+    font-size: 16px;
+}
+
+form button
+{
+    padding: 15px;
+    background-color: #a06cd5;
+    color: white;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    width: 150px;
+    margin: 20px auto 0;
+    border-radius: 30px;
+}
+
+.list-info
+{
+   display: flex;
+   justify-content: center;
+   
 }

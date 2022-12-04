@@ -52,49 +52,20 @@
     color:#6247aa
 }
 
-.my-pic
-{
-    display: inline-block;
-    margin-top: 50px;
-    padding-left: 190px;
-    padding-top: 20px;
-    margin-right: 50px;
-    font-family: "Monaco",monospace;
-    font-size: 30px;
-    color:white;
-    background-color: #6247aa;
-    border-top: 10px solid #a06cd5;
-    border-right: 10px solid #a06cd5;
-    border-bottom: 10px solid #a06cd5;
-    height: 540px;
-    width: 50%;
-
-
-}
-
-.text-pic
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .text
 {
-    display: inline-block;
-    margin-top: 50px;
-    padding-left: 50px;
-    padding-top: 150px;
-    margin-left: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     font-family: "Monaco",monospace;
     font-size: 30px;
     color:white;
+    margin: 30px;
+    padding: 20px;
     background-color: #6247aa;
-    border-top: 10px solid #a06cd5;
-    border-left: 10px solid #a06cd5;
-    border-bottom: 10px solid #a06cd5;
-    height: 410px;
-    width: 50%;
+    border: 10px solid #a06cd5;
+    height: 70vh;
+    text-align: left;
 }
 
 .bio-text
@@ -106,39 +77,35 @@
 
 .about-me-short-inline-one
 {
-    display: inline-block;
-    margin-top: 30px;
-    margin-left: 50px;
-    margin-right: 50px;
-    padding-left: 50px;
-    padding-right: 70px;
-    padding-top: 90px;
-    padding-right: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: "Monaco",monospace;
     font-size: 20px;
     color:white;
+    margin: 30px;
+    padding: 20px;
     background-color: #6247aa;
     border: 10px solid #a06cd5;
-    height: 320px;
+    height: 30vh;
+    text-align: left;
     width: 50%;
 }
 
 .about-me-short-inline-two
 {
-    display: inline-block;
-    margin-top: 30px;
-    margin-left: 50px;
-    margin-right: 50px;
-    padding-left: 70px;
-    padding-right: 70px;
-    padding-top: 30px;
-    padding-right: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: "Monaco",monospace;
     font-size: 20px;
+    margin: 30px;
+    padding: 20px;
     color:white;
     background-color: #6247aa;
     border: 10px solid #a06cd5;
-    height: 380px;
+    height: 30vh;
+    text-align: left;
     width: 50%;
 }
 
@@ -185,22 +152,25 @@
 
 .projects
 {
-    display: block;
-    margin-top: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
-    padding-top: 30px;
+   display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     font-family: "Monaco",monospace;
+    font-size: 30px;
+    color:white;
+    margin: 30px;
+    padding: 20px;
     background-color: #6247aa;
     border: 10px solid #a06cd5;
-    height: 700px;
-    width: 92%;
+    height: 70vh;
+    text-align: left;
 }
 
 .centering
 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -216,11 +186,13 @@
 .extracurricular
 {
     display: inline-block;
+    margin: 30px;
+    padding: 20px;
+    height: 70vh;
+    text-align: left;
     color:white;
     font-family: "Lucida Console",monospace;
     font-size: 15px;
-    margin-right: 70px;
-    margin-left: 50px;
     line-height: 20pt;
 
 }
